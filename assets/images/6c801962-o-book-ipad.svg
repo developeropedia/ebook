@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="308px" height="456px" viewBox="0 0 308 456" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>iPad</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#1E3264" offset="0%"></stop>
+            <stop stop-color="#182A57" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="O-Book" transform="translate(-388.000000, -409.000000)">
+            <g id="iPad" transform="translate(542.000000, 637.000000) scale(1, -1) translate(-542.000000, -637.000000) translate(388.000000, 409.000000)">
+                <rect id="iPad-Body" stroke="#1E3264" stroke-width="1.78548047" fill="#1E3264" x="0.892740234" y="0.892740234" width="306.21452" height="454.21452" rx="19.6402852"></rect>
+                <ellipse id="Oval-1" stroke="#D8688E" stroke-width="0.714192188" fill="url(#linearGradient-1)" cx="154.16" cy="29.2193699" rx="12.16" ry="12.2193699"></ellipse>
+                <rect id="Rectangle-3" stroke="#D8688E" stroke-width="0.653125" fill="#1E3264" x="150.326562" y="25.3265625" width="7.93040441" height="7.97231257" rx="2.14257656"></rect>
+                <ellipse id="Oval-2" stroke="#D8688E" stroke-width="2" cx="154.218824" cy="434.234539" rx="3.21882353" ry="3.23453909"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>
